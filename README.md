@@ -7,4 +7,3 @@ Algorithms in c++
 ##Sorting
 
 - Counting Sort
--
