@@ -1,2 +1,10 @@
 # cpp-algos
- Practice Algorithms with c++
+Algorithms in c++
+---
+
+
+
+##Sorting
+
+- Counting Sort
+-
